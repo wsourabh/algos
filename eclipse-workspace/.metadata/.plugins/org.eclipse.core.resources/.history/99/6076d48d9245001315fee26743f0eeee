@@ -1,0 +1,8 @@
+package arrays;
+
+public class MaxOccuringChar {
+         public static char maxOcuuringCharacter(String s){
+        	 
+        	 return ' ';
+         }
+}
